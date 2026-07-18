@@ -11,8 +11,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_yadav-aryan18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-aryan18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ## 🐍 Contribution Graph
