@@ -23,4 +23,6 @@
 
 ## 📡 Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/yadav-aryan18/student_health_risk/pull/1) in [yadav-aryan18/student_health_risk](https://github.com/yadav-aryan18/student_health_risk)
+2. 💪 Opened PR [#1](https://github.com/yadav-aryan18/student_health_risk/pull/1) in [yadav-aryan18/student_health_risk](https://github.com/yadav-aryan18/student_health_risk)
 <!--END_SECTION:activity-->
